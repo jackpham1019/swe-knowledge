@@ -1,0 +1,6 @@
+# Normalize text files to LF
+* text=auto
+
+# Always use LF for Markdown and Obsidian configuration
+*.md text eol=lf
+*.json text eol=lf
