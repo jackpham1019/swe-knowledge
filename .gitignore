@@ -1,0 +1,7 @@
+# Device-specific Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspaces.json
+
+# OS-generated files
+.DS_Store
+Thumbs.db
