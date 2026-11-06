@@ -13,7 +13,6 @@ A version-controlled, Markdown-first knowledge base for understanding, recalling
 - [C# language](csharp.md)
 - [.NET platform](dotnet.md)
 - [ASP.NET Core configuration practice](backend/dotnet/aspnet-core/configuration-reading-practice.md)
-- [Learning roadmap](handbook/roadmap.md)
 
 ## How the repository works
 
@@ -22,4 +21,4 @@ A version-controlled, Markdown-first knowledge base for understanding, recalling
 - **Hands-on exercises** live near the topic they reinforce; reusable project narratives live under `projects/`.
 - **Execution and milestones** live in Trello, while the conceptual roadmap and knowledge live here.
 
-See [conventions](handbook/conventions.md), [learning system](handbook/learning-system.md), and [goals](handbook/goals.md).
+See conventions, learning system, and goals in [Handbook](handbook.md)
