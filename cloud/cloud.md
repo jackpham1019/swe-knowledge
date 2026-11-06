@@ -4,9 +4,9 @@ Provider-neutral cloud concepts and notes organized by provider.
 
 ## Contents
 
-- [AWS](aws/index.md)
-- [Azure](azure/index.md)
+- [AWS](aws.md)
+- [Azure](azure.md)
 
 ## Navigation
 
-- [Repository home](../README.md)
+

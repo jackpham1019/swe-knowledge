@@ -4,9 +4,8 @@ Backend languages, frameworks, APIs, application architecture, and persistence i
 
 ## Contents
 
-- [C#](csharp/index.md)
-- [.NET](dotnet/index.md)
+- [C#](csharp.md)
+- [.NET](dotnet.md)
 
 ## Navigation
 
-- [Repository home](../README.md)

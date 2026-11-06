@@ -4,14 +4,14 @@ A version-controlled, Markdown-first knowledge base for understanding, recalling
 
 ## Browse by domain
 
-- [Foundations](foundations/index.md) · [Backend](backend/index.md) · [Frontend](frontend/index.md) · [Databases](databases/index.md)
-- [Containers](containers/index.md) · [Cloud](cloud/index.md) · [DevOps](devops/index.md) · [AI](ai/index.md)
-- [Projects](projects/index.md) · [Handbook](handbook/index.md)
+- [Foundations](foundations.md) · [Backend](backend.md) · [Frontend](frontend.md) · [Databases](databases.md)
+- [Containers](containers.md) · [Cloud](cloud.md) · [DevOps](devops.md) · [AI](ai.md)
+- [Projects](projects.md) · [Handbook](handbook.md)
 
 ## Current learning focus
 
-- [C# language](backend/csharp/index.md)
-- [.NET platform](backend/dotnet/index.md)
+- [C# language](csharp.md)
+- [.NET platform](dotnet.md)
 - [ASP.NET Core configuration practice](backend/dotnet/aspnet-core/configuration-reading-practice.md)
 - [Learning roadmap](handbook/roadmap.md)
 

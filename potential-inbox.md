@@ -1,0 +1,11 @@
+- C#
+	- Nullable\<T> == T? of value types
+	- Nullable value types sand nullable reference types are not implemented the same way
+		- Nullable reference annotations generally don't change runtime representation.
+		- When nullable reference type analysis is enabled, the compiler warns about possible null-related mistakes
+	- Common object types
+	- Boxing vs Unboxing
+		- Boxing involves wrapping a value type within an object so that it can participate in abstraction requiring object reference.
+		- Values are boxed to System.Object
+		- Unboxing must first target the actual type, then convert as needed
+			- Unboxing an int directly to long would cause an InvalidCastException

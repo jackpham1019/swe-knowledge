@@ -4,9 +4,8 @@ Container fundamentals, local development, and orchestration.
 
 ## Contents
 
-- [Docker](docker/index.md)
-- [Kubernetes](kubernetes/index.md)
+- [Docker](docker.md)
+- [Kubernetes](kubernetes/kubernetes.md)
 
 ## Navigation
 
-- [Repository home](../README.md)

@@ -22,14 +22,14 @@ public static T Create<T>() where T : new() => new T();
 
 ## Properties and initialization
 
-| Syntax | Meaning |
-| --- | --- |
-| `get; set;` | Publicly readable and writable property (when property is public) |
-| `get; private set;` | Public read, private write |
-| `get; init;` | Can be assigned during allowed initialization contexts; not normally reassigned later |
-| `get;` | Getter-only property; can be assigned from a constructor if auto-implemented |
-| `=> expression` | Expression-bodied computed getter |
-| `required` | Caller must initialize member in a supported object-creation expression, unless constructor is marked as setting required members |
+| Syntax              | Meaning                                                                                                                           |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| `get; set;`         | Publicly readable and writable property (when property is public)                                                                 |
+| `get; private set;` | Public read, private write                                                                                                        |
+| `get; init;`        | Can be assigned during allowed initialization contexts; not normally reassigned later                                             |
+| `get;`              | Getter-only property; can be assigned from a constructor if auto-implemented                                                      |
+| `=> expression`     | Expression-bodied computed getter                                                                                                 |
+| `required`          | Caller must initialize member in a supported object-creation expression, unless constructor is marked as setting required members |
 
 ```csharp
 public class Payment
@@ -102,5 +102,5 @@ For a runnable-style practice example, see [extension-method-example.cs](example
 
 ## Related topics
 
-- [C# hub](index.md)
-- [.NET hub](../dotnet/index.md)
+- [C# hub](csharp.md)
+- [.NET hub](dotnet.md)

@@ -1,7 +1,7 @@
 # ASP.NET Core Configuration — Reading Practice
 
 **Status:** Practice  
-**Related:** [C# language notes](../../csharp/language-fundamentals.md) · [ASP.NET Core index](index.md)
+**Related:** [C# language notes](csharp-fundamentals.md) · [ASP.NET Core index](aspnet-core.md)
 
 ## Goal
 

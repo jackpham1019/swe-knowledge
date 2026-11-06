@@ -8,5 +8,4 @@ Small code examples that reinforce specific language mechanisms.
 
 ## Navigation
 
-- [Repository home](../../../README.md)
-- [Parent: C#](../index.md)
+- [Parent: C#](csharp.md)

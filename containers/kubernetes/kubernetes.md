@@ -1,13 +1,10 @@
-## Purpose
-Orchestrate containerized applications across
-a cluster of machines.
+# Kubernetes
 
-## Core mental model
-Kubernetes continuously reconciles actual
-cluster state toward declared desired state.
+Kubernetes keeps the observed cluster state aligned with the declared desired state through controllers and reconciliation.
 
 ## Conceptual areas
 - [Architecture](architecture.md)
+- [Kubernetes Services](kubernetes%20service.md)
 - Workload lifecycle (planned)
 - Networking (planned)
 
@@ -27,3 +24,13 @@ cluster state toward declared desired state.
 - Container networking
 - Distributed systems
 - Infrastructure as Code
+
+## Next notes to develop
+
+- Workload lifecycle (Deployment, ReplicaSet, Pod, scheduler, kubelet)
+- Networking (Service discovery, ingress, and endpoint routing)
+- Storage and persistence
+
+## Navigation
+
+- [Containers index](containers.md)

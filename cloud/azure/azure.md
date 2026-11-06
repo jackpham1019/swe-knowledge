@@ -8,5 +8,4 @@ _No topic notes yet. Add a note when there is a concrete concept, problem, or ex
 
 ## Navigation
 
-- [Repository home](../../README.md)
-- [Parent: Cloud Computing](../index.md)
+- [Parent: Cloud Computing](cloud.md)
