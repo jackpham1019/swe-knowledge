@@ -8,8 +8,8 @@ cluster state toward declared desired state.
 
 ## Conceptual areas
 - [Architecture](architecture.md)
-- [Workload lifecycle](workload-lifecycle.md)
-- [Networking](networking.md)
+- Workload lifecycle (planned)
+- Networking (planned)
 
 ## Relationships
 - Deployments manage ReplicaSets.
