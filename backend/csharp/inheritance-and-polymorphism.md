@@ -61,13 +61,13 @@ public class SecureCardPayment : CardPayment
 
 ## Syntax reference
 
-| Syntax | Meaning | Virtual dispatch? |
-| --- | --- | --- |
-| `virtual void M()` | Has a base implementation; permits overrides | Yes |
-| `override void M()` | Overrides inherited virtual/abstract member | Yes |
-| `new void M()` | Explicitly hides inherited member | No, unless independently declared `new virtual` |
-| `sealed override void M()` | Overrides once and blocks subsequent overrides | Yes, up to this implementation |
-| `abstract void M();` | Requires an implementation in a concrete subclass | Yes |
+| Syntax                     | Meaning                                           | Virtual dispatch?                               |
+| -------------------------- | ------------------------------------------------- | ----------------------------------------------- |
+| `virtual void M()`         | Has a base implementation; permits overrides      | Yes                                             |
+| `override void M()`        | Overrides inherited virtual/abstract member       | Yes                                             |
+| `new void M()`             | Explicitly hides inherited member                 | No, unless independently declared `new virtual` |
+| `sealed override void M()` | Overrides once and blocks subsequent overrides    | Yes, up to this implementation                  |
+| `abstract void M();`       | Requires an implementation in a concrete subclass | Yes                                             |
 
 ## Access modifiers quick reference
 
