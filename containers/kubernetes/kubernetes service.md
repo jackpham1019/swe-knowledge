@@ -23,7 +23,6 @@ The Service may still exist, but there are
 no matching backend Pods to receive traffic.
 
 ## Practical example
-[Networking lab](../../projects/microservices-lab/)
 
 ## Recall
 Anki tag: k8s::networking
