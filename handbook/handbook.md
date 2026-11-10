@@ -11,3 +11,7 @@ How this knowledge base is organized and how learning goals and execution are ma
 - [Weekly Reviews](weekly-reviews.md)
 
 ## Navigation
+
+## Learning intake
+
+- [[learning-inbox]] — capture and integration workflow, with outstanding review items

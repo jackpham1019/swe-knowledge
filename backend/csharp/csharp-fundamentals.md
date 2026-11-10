@@ -46,12 +46,12 @@ var payment = new Payment { Currency = "USD", Amount = 100m };
 
 ## Class, struct, and record
 
-| Type | Assignment semantics | Default equality | Common use |
-| --- | --- | --- | --- |
-| `class` | Copies a reference | Reference identity, unless overridden | Entities and services |
-| `struct` | Copies the value | Value-based (`ValueType` equality, unless overridden) | Small value types |
-| `record class` | Copies a reference | Generated value-based equality | DTOs and immutable-style models |
-| `record struct` | Copies the value | Generated value-based equality | Value objects |
+| Type            | Assignment semantics | Default equality                                      | Common use                      |
+| --------------- | -------------------- | ----------------------------------------------------- | ------------------------------- |
+| `class`         | Copies a reference   | Reference identity, unless overridden                 | Entities and services           |
+| `struct`        | Copies the value     | Value-based (`ValueType` equality, unless overridden) | Small value types               |
+| `record class`  | Copies a reference   | Generated value-based equality                        | DTOs and immutable-style models |
+| `record struct` | Copies the value     | Generated value-based equality                        | Value objects                   |
 
 A positional `record` is a `record class` by default.
 

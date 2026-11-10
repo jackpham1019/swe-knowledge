@@ -9,3 +9,6 @@ Backend languages, frameworks, APIs, application architecture, and persistence i
 
 ## Navigation
 
+## Cross-layer design
+
+- [[validation-boundaries]] — validation responsibilities across UI, API, application, and domain layers
