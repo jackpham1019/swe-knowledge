@@ -31,3 +31,15 @@ The `readonly` keyword has different meanings for fields, structs, and struct me
 - [[delegates-and-lambdas]], [[linq-execution]], [[expression-trees]], [[query-providers-and-iqueryable]]
 - [[pattern-matching]], [[null-handling-operators]]
 - [[exception-propagation]], [[resource-ownership-and-disposal]], [[async-await-task-flow]], [[readonly-keyword]]
+
+## Asynchronous execution and recovery
+
+- [[threads-tasks-and-execution]] — Thread pool, tasks, and execution resources
+- [[io-bound-vs-cpu-bound-work]] — Choosing asynchronous I/O or CPU offloading
+- [[concurrency-asynchrony-and-parallelism]] — Distinct execution concepts
+- [[task-concurrency-and-whenall]] — Independent operations and coordination
+- [[cancellation-tokens-and-propagation]] — Cooperative cancellation and ownership
+- [[linked-cancellation-and-timeouts]] — Combining caller cancellation and deadlines
+- [[cancellation-boundaries-and-business-consistency]] — Safe stopping points
+- [[cancellation-and-transaction-recovery]] — Rollback and recovery scope
+- [[compensation-and-sagas]] — Consistency across independently committed work
