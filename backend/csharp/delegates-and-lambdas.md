@@ -18,4 +18,4 @@ A delegate is useful for a small operation or callback (`Predicate`, selector, e
 
 ## Crucial distinction
 
-`Func<Transaction,bool>` is executable code. `Expression<Func<Transaction,bool>>` is a structured description of an expression; they are not interchangeable representations. See [[expression-trees]].
+`Func<Transaction,bool>` is executable code. `Expression<Func<Transaction,bool>>` is a structured description of an expression; they are not interchangeable representations. See [expression-trees](expression-trees.md).

@@ -103,4 +103,4 @@ For a runnable-style practice example, see [extension-method-example.cs](example
 ## Related topics
 
 - [C# hub](csharp.md)
-- [.NET hub](dotnet.md)
+- [.NET hub](../dotnet/dotnet.md)

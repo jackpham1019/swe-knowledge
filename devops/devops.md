@@ -4,10 +4,10 @@ Automation, infrastructure management, observability, and reliability.
 
 ## Contents
 
-- [CI/CD](cicd.md)
-- [Infrastructure as Code](infrastructure-as-code.md)
-- [Observability](observability.md)
-- [Reliability Engineering](reliability-engineering.md)
+- [CI/CD](cicd/cicd.md)
+- [Infrastructure as Code](infrastructure-as-code/infrastructure-as-code.md)
+- [Observability](observability/observability.md)
+- [Reliability Engineering](reliability/reliability-engineering.md)
 
 ## Navigation
 

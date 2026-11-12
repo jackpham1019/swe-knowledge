@@ -4,14 +4,14 @@ A version-controlled, Markdown-first knowledge base for understanding, recalling
 
 ## Browse by domain
 
-- [Foundations](foundations.md) · [Backend](backend.md) · [Frontend](frontend.md) · [Databases](databases.md)
-- [Containers](containers.md) · [Cloud](cloud.md) · [DevOps](devops.md) · [AI](ai.md)
-- [Projects](projects.md) · [Handbook](handbook.md)
+- [Foundations](foundations/foundations.md) · [Backend](backend/backend.md) · [Frontend](frontend/frontend.md) · [Databases](databases/databases.md)
+- [Containers](containers/containers.md) · [Cloud](cloud/cloud.md) · [DevOps](devops/devops.md) · [AI](ai/ai.md)
+- [Projects](projects/projects.md) · [Handbook](handbook/handbook.md)
 
 ## Current learning focus
 
-- [C# language](csharp.md)
-- [.NET platform](dotnet.md)
+- [C# language](backend/csharp/csharp.md)
+- [.NET platform](backend/dotnet/dotnet.md)
 - [ASP.NET Core configuration practice](backend/dotnet/aspnet-core/configuration-reading-practice.md)
 
 ## How the repository works
@@ -21,4 +21,4 @@ A version-controlled, Markdown-first knowledge base for understanding, recalling
 - **Hands-on exercises** live near the topic they reinforce; reusable project narratives live under `projects/`.
 - **Execution and milestones** live in Trello, while the conceptual roadmap and knowledge live here.
 
-See conventions, learning system, and goals in [Handbook](handbook.md)
+See conventions, learning system, and goals in [Handbook](handbook/handbook.md)

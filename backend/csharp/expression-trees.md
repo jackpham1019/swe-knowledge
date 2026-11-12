@@ -42,4 +42,4 @@ Console.WriteLine(body.Right);    // 1000
 
 A query provider can inspect and translate nodes without parsing C# source. This is an example of an **intermediate representation**: separate the description of computation from the mechanism that executes it. The same idea appears in compilers and query planners.
 
-Expression trees support only certain language constructs, and a provider may not understand every valid tree. See [[query-providers-and-iqueryable]] and [[delegates-and-lambdas]].
+Expression trees support only certain language constructs, and a provider may not understand every valid tree. See [Query providers](query-providers.md) and [delegates-and-lambdas](delegates-and-lambdas.md).

@@ -15,5 +15,5 @@ Framework notes for building HTTP APIs and web applications on .NET.
 
 ## Navigation
 
-- [.NET index](dotnet.md)
-- [C# language index](csharp.md)
+- [.NET index](../dotnet.md)
+- [C# language index](../../csharp/csharp.md)

@@ -1,10 +1,10 @@
 # .NET Platform
 
-The .NET runtime, SDK, libraries, and application frameworks. Use [C#](csharp.md) for language behavior; use this area for .NET ecosystem and framework topics.
+The .NET runtime, SDK, libraries, and application frameworks. Use [C#](../csharp/csharp.md) for language behavior; use this area for .NET ecosystem and framework topics.
 
 ## Contents
 
-- [ASP.NET Core](aspnet-core.md) — HTTP applications, middleware, dependency injection, and configuration
+- [ASP.NET Core](aspnet-core/aspnet-core.md) — HTTP applications, middleware, dependency injection, and configuration
 
 ## Planned topics
 
@@ -14,4 +14,4 @@ The .NET runtime, SDK, libraries, and application frameworks. Use [C#](csharp.md
 
 ## Navigation
 
-- [Backend index](backend.md)
+- [Backend index](../backend.md)

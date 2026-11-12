@@ -4,11 +4,11 @@ Backend languages, frameworks, APIs, application architecture, and persistence i
 
 ## Contents
 
-- [C#](csharp.md)
-- [.NET](dotnet.md)
+- [C#](csharp/csharp.md)
+- [.NET](dotnet/dotnet.md)
 
 ## Navigation
 
 ## Cross-layer design
 
-- [[validation-boundaries]] — validation responsibilities across UI, API, application, and domain layers
+- [validation-boundaries](validation-boundaries.md) — validation responsibilities across UI, API, application, and domain layers

@@ -48,4 +48,4 @@ The direct method catches only a **synchronous throw during invocation**, not a 
 
 ## Async is not parallelism
 
-Concurrency means overlapping progress; parallelism means simultaneous execution. Asynchronous I/O can free threads while waiting for external work, but does not inherently speed up a database query or guarantee parallel execution. See [[exception-propagation]], [[resource-ownership-and-disposal]].
+Concurrency means overlapping progress; parallelism means simultaneous execution. Asynchronous I/O can free threads while waiting for external work, but does not inherently speed up a database query or guarantee parallel execution. See [exception-propagation](exceptions.md), [resource-ownership-and-disposal](resource-ownership-and-disposal.md).

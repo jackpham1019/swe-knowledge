@@ -200,6 +200,6 @@ The `required` check is a **compile-time obligation** to assign; the `init` acce
 
 ## Related notes
 
-- [C# index](backend.md)
+- [C# index](../backend.md)
 - [Language fundamentals](csharp-fundamentals.md)
 - [Inheritance and polymorphism](inheritance-and-polymorphism.md)

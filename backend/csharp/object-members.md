@@ -15,4 +15,4 @@ Console.WriteLine(value.GetType() == typeof(string)); // True
 Console.WriteLine(value.ToString()); // hello
 ```
 
-When implementing value equality, override `Equals` and `GetHashCode` consistently, and consider `IEquatable<T>`. Hash codes are not guaranteed stable across processes or framework versions. Avoid mutable equality keys in dictionaries/sets. Related: [[boxing-and-unboxing]].
+When implementing value equality, override `Equals` and `GetHashCode` consistently, and consider `IEquatable<T>`. Hash codes are not guaranteed stable across processes or framework versions. Avoid mutable equality keys in dictionaries/sets. Related: [boxing-and-unboxing](boxing-and-unboxing.md).

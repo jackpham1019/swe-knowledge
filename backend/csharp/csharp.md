@@ -1,45 +1,38 @@
-# C# Language
+# C#
 
-The language itself: types, syntax, equality, copying, generics, and resource management. Keep language-specific notes here, not ASP.NET Core configuration or framework behavior.
+C# language and execution reference. Each topic owns its mechanisms and examples; links connect related topics without duplicating full explanations.
 
-## Notes
+## Language and type system
 
-- [C# Language Fundamentals](csharp-fundamentals.md) — generic constraints, properties, records, `using`, and extension methods
-- [Extension method example](examples/extension-method-example.cs) — a small executable example
-- [Examples index](csharp-example.md)
+- [C# fundamentals](csharp-fundamentals.md)
+- [Nullability](nullability.md)
+- [Boxing and unboxing](boxing-and-unboxing.md)
+- [Object members](object-members.md)
+- [Object initialization](object-initialization.md)
+- [Inheritance and polymorphism](inheritance-and-polymorphism.md)
+- [Pattern matching](pattern-matching.md)
+- [Null-handling operators](null-handling-operators.md)
+- [C# keywords and modifiers](keywords.md)
 
-## Related
+## Collections and queries
 
-- [.NET platform](dotnet.md)
-- [ASP.NET Core configuration practice](../dotnet/aspnet-core/configuration-reading-practice.md)
-- [Backend index](backend.md)
+- [Collections](collections.md)
+- [LINQ](linq.md)
+- [Query providers](query-providers.md)
+- [Expression trees](expression-trees.md)
+- [Delegates and lambdas](delegates-and-lambdas.md)
 
-## Consolidated learning references
+## Execution and reliability
 
-- [[nullability-and-boxing]] — nullable types and boxing semantics
-- [[collections-and-immutability]] — collection contracts, wrappers, and snapshots
-- [[linq-and-query-providers]] — deferred execution, delegates, expression trees, query providers
-- [[exceptions-and-resource-lifetimes]] — exception propagation, `IDisposable`, ownership
-- [[pattern-matching-and-null-handling]] — patterns and null-related operators
+- [Concurrency](concurrency.md)
+- [Async/await task flow](async-await-task-flow.md)
+- [Cancellation](cancellation.md)
+- [Exceptions](exceptions.md)
+- [Resource ownership and disposal](resource-ownership-and-disposal.md)
+- [Compensation and sagas](compensation-and-sagas.md)
 
-The `readonly` keyword has different meanings for fields, structs, and struct members; track this as a follow-up rather than treating it as one interchangeable rule.
+## Practice and ecosystem
 
-## Detailed reference notes
-
-- [[nullable-types]], [[boxing-and-unboxing]], [[object-members]]
-- [[collection-interfaces]], [[collection-views-snapshots-and-immutability]]
-- [[delegates-and-lambdas]], [[linq-execution]], [[expression-trees]], [[query-providers-and-iqueryable]]
-- [[pattern-matching]], [[null-handling-operators]]
-- [[exception-propagation]], [[resource-ownership-and-disposal]], [[async-await-task-flow]], [[readonly-keyword]]
-
-## Asynchronous execution and recovery
-
-- [[threads-tasks-and-execution]] — Thread pool, tasks, and execution resources
-- [[io-bound-vs-cpu-bound-work]] — Choosing asynchronous I/O or CPU offloading
-- [[concurrency-asynchrony-and-parallelism]] — Distinct execution concepts
-- [[task-concurrency-and-whenall]] — Independent operations and coordination
-- [[cancellation-tokens-and-propagation]] — Cooperative cancellation and ownership
-- [[linked-cancellation-and-timeouts]] — Combining caller cancellation and deadlines
-- [[cancellation-boundaries-and-business-consistency]] — Safe stopping points
-- [[cancellation-and-transaction-recovery]] — Rollback and recovery scope
-- [[compensation-and-sagas]] — Consistency across independently committed work
+- [Examples](examples/csharp-example.md)
+- [.NET](../dotnet/dotnet.md)
+- [Backend](../backend.md)

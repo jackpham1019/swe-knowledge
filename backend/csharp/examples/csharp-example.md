@@ -8,4 +8,4 @@ Small code examples that reinforce specific language mechanisms.
 
 ## Navigation
 
-- [Parent: C#](csharp.md)
+- [Parent: C#](../csharp.md)

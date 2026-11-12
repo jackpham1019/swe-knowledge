@@ -96,6 +96,6 @@ Java instance methods are generally virtual unless constrained (for example, `fi
 
 ## Related notes
 
-- [C# index](backend.md)
+- [C# index](../backend.md)
 - [Language fundamentals](csharp-fundamentals.md)
 - [Object initialization](object-initialization.md)

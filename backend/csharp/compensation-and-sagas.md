@@ -59,5 +59,5 @@ A cancellation token does not provide transactional guarantees.
 
 ## Related concepts
 
-- [[cancellation-and-transaction-recovery]]
-- [[task-concurrency-and-whenall]]
+- [Cancellation](cancellation.md)
+- [task-concurrency-and-whenall](concurrency.md)

@@ -4,7 +4,7 @@ Kubernetes keeps the observed cluster state aligned with the declared desired st
 
 ## Conceptual areas
 - [Architecture](architecture.md)
-- [Kubernetes Services](kubernetes%20service.md)
+- [Kubernetes Services](kubernetes service.md)
 - Workload lifecycle (planned)
 - Networking (planned)
 
@@ -33,4 +33,4 @@ Kubernetes keeps the observed cluster state aligned with the declared desired st
 
 ## Navigation
 
-- [Containers index](containers.md)
+- [Containers index](../containers.md)

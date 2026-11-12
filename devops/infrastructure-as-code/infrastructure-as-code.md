@@ -8,4 +8,4 @@ _No topic notes yet. Add a note when there is a concrete concept, problem, or ex
 
 ## Navigation
 
-- [Parent: DevOps and Delivery](devops.md)
+- [Parent: DevOps and Delivery](../devops.md)

@@ -28,4 +28,4 @@ Stream OpenBad(string path)
 }
 ```
 
-For dependency-injection-managed objects, the container often owns disposal; manually disposing them can break later consumers. Prefer clear ownership conventions over indiscriminate `using`. Related: [[exception-propagation]].
+For dependency-injection-managed objects, the container often owns disposal; manually disposing them can break later consumers. Prefer clear ownership conventions over indiscriminate `using`. Related: [exception-propagation](exceptions.md).
